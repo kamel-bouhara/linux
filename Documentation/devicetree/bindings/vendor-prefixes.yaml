@@ -175,6 +175,8 @@ patternProperties:
   "^awinic,.*":
     description: Shanghai Awinic Technology Co., Ltd.
   "^axentia,.*":
+    description: TouchNetix
+  "^touchnetix,.*":
     description: Axentia Technologies AB
   "^axis,.*":
     description: Axis Communications AB
